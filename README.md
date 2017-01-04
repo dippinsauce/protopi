@@ -4,8 +4,9 @@ Files, changes, procedures used to setup RPi 3B used for testing
 Used PiBakery to setup image.  
 Setup Wifi to 'webb2'  
 Setup VNC to launch on all boot up.  
+ssh left at default port of 22, router will handle the external port routing.  
 
-**Needed to change screen default size**  
+**Needed to change screen default size for VNC**  
 Edited /boot/config.txt  
 Uncommented the following lines  
 framebuffer_width=1280  
