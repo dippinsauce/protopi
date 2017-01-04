@@ -15,3 +15,5 @@ Needed to change authentication for the vnc server... Had to install RealVNC to 
 Changed VNC -> Options -> Security -> Authentication to "VNC Password"
 Set a new password....  Then TightVNC would connect and authenticate.
 This allows portable installations to connect via ssh tunnel
+
+Next Steps -- Install utilities to work the 433MHz receiver and capture signals...
