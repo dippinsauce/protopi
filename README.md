@@ -19,5 +19,6 @@ This allows portable installations to connect via ssh tunnel
 
 Setup pi to boot from attached usb drive...  
 Following instructions found https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bootmodes/msd.md  
+This didn't work at all... Starting from scratch.  Just gonna run on the sd card.  
 
 Next Steps -- Install utilities to work the 433MHz receiver and capture signals...  
