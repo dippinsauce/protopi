@@ -17,4 +17,7 @@ Changed VNC -> Options -> Security -> Authentication to "VNC Password"
 Set a new password....  Then TightVNC would connect and authenticate.  
 This allows portable installations to connect via ssh tunnel  
 
+Setup pi to boot from attached usb drive...  
+Following instructions found https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bootmodes/msd.md  
+
 Next Steps -- Install utilities to work the 433MHz receiver and capture signals...  
