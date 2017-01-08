@@ -13,10 +13,10 @@ framebuffer_width=1280
 framebuffer_height=720  
 
 Didn't perform these steps, installed RealVNC to my portable drive.  
-#Needed to change authentication for the vnc server... Had to install RealVNC to connect first time.  
-#Changed VNC -> Options -> Security -> Authentication to "VNC Password"  
-#Set a new password....  Then TightVNC would connect and authenticate.  
-#This allows portable installations to connect via ssh tunnel  
+_Needed to change authentication for the vnc server... Had to install RealVNC to connect first time.  
+_Changed VNC -> Options -> Security -> Authentication to "VNC Password"  
+_Set a new password....  Then TightVNC would connect and authenticate.  
+_This allows portable installations to connect via ssh tunnel  
 
 Setup pi to boot from attached usb drive...  
 Following instructions found https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bootmodes/msd.md  
