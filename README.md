@@ -24,3 +24,6 @@ This didn't work at all... Tried with the corsair 32gb SSD in the sabrent enclos
 Starting from scratch.  Just gonna run on the sd card.  
 
 Next Steps -- Install utilities to work the 433MHz receiver and capture signals...  
+Install Arduino IDE to Pi.  ARM Linux version.  https://www.arduino.cc/en/guide/linux  
+Connected the gikfun nano clone and uploaded a sketch.  Worked.  No drivers necessary for linux.  
+
